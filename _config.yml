@@ -1,10 +1,10 @@
 # Site settings
 title: BY Blog
-SEOTitle: 木叶流云的博客 | BY Blog
+SEOTitle: 木叶流云的博客 | muyeliyun の Blog
 header-img: img/post-bg-desk.jpg
 email: 1817705128@qq.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 木叶流云的博客, muyeliuyun, 木叶流云, iOS, Apple, iPhone"
+keyword: "木叶, Blog, 木叶流云的博客, muyeliuyun, 木叶流云, iOS, Apple, iPhone"
 url: "http://timor1988.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/timor1988/timor1988.github.io.git" # you code repository
