@@ -12,7 +12,7 @@ github_repo: "https://github.com/timor1988/timor1988.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Think Big Go Deep"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/TIM图片20191023145912.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
