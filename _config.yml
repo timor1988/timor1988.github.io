@@ -10,7 +10,7 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 #github_repo: "https://github.com/timor1988/timor1988.github.io.git" # you code repository
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
+sidebar: false                          # whether or not using Sidebar.
 sidebar-about-description: "Think Big Go Deep"
 sidebar-avatar: /img/TIM图片20191023145912.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
@@ -60,14 +60,14 @@ kramdown:
 # disqus_username: qiubaiying
 
 # Gitalk
-gitalk:
-  enable: false    #是否开启Gitalk评论
-  clientID: a48068726e18994fcc0e                           #生成的clientID
-  clientSecret: c2601dc6b82853cca9fc041ed11f98a8e64c18a7    #生成的clientSecret
-  repo: timor1988.github.io    #仓库名称
-  owner: timor1988    #github用户名
-  admin: timor1988
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+# gitalk:
+#   enable: false    #是否开启Gitalk评论
+#   clientID: a48068726e18994fcc0e                           #生成的clientID
+#   clientSecret: c2601dc6b82853cca9fc041ed11f98a8e64c18a7    #生成的clientSecret
+#   repo: timor1988.github.io    #仓库名称
+#   owner: timor1988    #github用户名
+#   admin: timor1988
+#   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
