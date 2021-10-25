@@ -2,7 +2,6 @@
 title: 木叶流云の Blog
 SEOTitle: 木叶流云的博客 | muyeliyun の Blog
 header-img: img/post-bg-desk.jpg
-#email: 1817705128@qq.com
 description: "Every failure is leading towards success."
 keyword: "木叶, Blog, 木叶流云的博客, muyeliuyun, 木叶流云, iOS, Apple, iPhone"
 #url: "http://timor1988.github.io"          # your host, for absolute URL
@@ -16,14 +15,6 @@ sidebar-avatar: /img/TIM图片20191023145912.jpg      # use absolute URL, seeing
 
 
 
-# SNS settings
-RSS: false
-# weibo_username:     qiubaiying
-#zhihu_username:     username
-#github_username:    timor1988
-#facebook_username:  username
-#jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
 
 
 
