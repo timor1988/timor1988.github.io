@@ -1,9 +1,9 @@
 # Site settings
-title: 木叶流云の Blog
+title: 木叶流云的博客
 SEOTitle: 木叶流云的博客 | muyeliyun の Blog
 header-img: img/post-bg-desk.jpg
 description: "Every failure is leading towards success."
-keyword: "木叶, Blog, 木叶流云的博客, muyeliuyun, 木叶流云, iOS, Apple, iPhone"
+keyword: "木叶流云"
 #url: "http://timor1988.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 #github_repo: "https://github.com/timor1988/timor1988.github.io.git" # you code repository
